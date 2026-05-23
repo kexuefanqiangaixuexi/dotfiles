@@ -1,0 +1,13 @@
+[user]
+  name = kexuefanqiangaixuexi
+[core]
+  editor = vim
+  autocrlf = input
+[alias]
+  co = checkout
+  br = branch
+  ci = commit
+  st = status
+  lg = log --oneline --graph --decorate -20
+[push]
+  default = simple
