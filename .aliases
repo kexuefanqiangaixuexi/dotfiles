@@ -1,0 +1,11 @@
+# ~/.aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias gs='git status'
+alias gc='git commit'
+alias gp='git push'
+alias gl='git log --oneline --graph --decorate -20'
+alias py='python3'
+alias ipy='python3 -m IPython'
+alias venv='python3 -m venv .venv && source .venv/bin/activate'
